@@ -1,6 +1,10 @@
 # FlightPulse
 
-Welcome to FlightPulse, a personalized set of scripts designed to automate the configuration of FPV drones using CLI commands in Betaflight Configurator. This repository serves as an inspiration, providing detailed descriptions of my drones, components reviews, and configuration commands to streamline and enhance your setup process.
+> [!CAUTION]
+> ❗❗❗ FlightPulse is in its early stages and is currently under construction ❗❗❗
+
+
+Welcome to FlightPulse, a personalized set of scripts designed to automate the configuration of FPV drones using CLI commands in Betaflight Configurator. This repository provides detailed descriptions of my drones, component reviews, and configuration commands to streamline and enhance setup process.
 
 ## Features
 
